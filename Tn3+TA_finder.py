@@ -2,7 +2,7 @@
 #
 # Tn3+TA_finder: Tn3 Transposon/Toxin Finder
 #
-# Version 1.0.0 - Novemeber 11, 2019
+# Version 1.0.1 - April 29, 2020
 #
 # Copyright © 2019 Danillo Oliveira Alvarenga
 #
@@ -42,7 +42,7 @@ parser = argparse.ArgumentParser(description="Tn3 transposon/toxin finder",
                                  max_help_position=10, width=100))
 
 parser.add_argument("-v", "--version", action="version",
-                    version="%(prog)s 1.0.0", help="show version and exit")
+                    version="%(prog)s 1.0.1", help="show version and exit")
 
 parser.add_argument("-f", "--file", metavar="Sequences.fasta", required=True,
                     nargs='+', help="target sequences")

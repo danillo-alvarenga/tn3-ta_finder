@@ -6,7 +6,7 @@ Tn3 Transposon/Toxin Finder (Tn3+TA_finder) is a program for the automatic predi
 
 ## RELEASE
 
-Version 1.0.0 - November 11, 2019.
+Version 1.0.1 - April 29, 2020.
 
 Available from <https://github.com/danillo-alvarenga/tn3-ta_finder>.
 
@@ -104,7 +104,7 @@ Information about how the run was started is stored in the file `info.txt`, whic
 ## CITATION
 
 If you find this program useful in your research, please cite the following references:
-- Alvarenga DO, Varani AM (2019). Tn3+TA_finder: prokaryotic transposase element recognizer. Available from <https://github.com/danillo-alvarenga/tn3-ta_finder>.
+- Lima-Mendez G, Alvarenga DO, Ross K, Hallet B, Van Melderen L, Varani AM, Chandler M (2020). Toxin-antitoxin gene pairs found in Tn3 family transposons appear to be an integral part of the transposition module. mBio 11:e00452-20
 - Camacho C, Coulouris G, Avagyan V, Ma N, Papadopoulos J, Bealer K, Madden TL (2009) BLAST+: architecture and applications. BMC Bioinformatics 10:421
 - Cock PJA, Antao T, Chang JT, Chapman BA, Cox CJ, Dalke A, Freidberg I, Hamelryck T, Kauff F, Wilczynski B, de Hoon MJL (2009) Biopython: freely available Python tools for computational molecular biology and bioinformatics. Bioinformatics 25:1422-1423
 - Hyatt D, Chen GL, LoCascio PF, Land ML, Larimer FW, Hauser LJ (2010) Prodigal: prokaryotic gene recognition and translation initiation site identification. BMC Bioinformatics 11:119
@@ -121,7 +121,7 @@ If you experience any issues or would like to see support for an additional feat
 
 ## LICENSE
 
-Copyright © 2019 Danillo Oliveira Alvarenga
+Copyright © 2020 Danillo Oliveira Alvarenga
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
